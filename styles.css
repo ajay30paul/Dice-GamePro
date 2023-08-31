@@ -1,0 +1,42 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #D3D3D3;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Montserrat', sans-serif;
+  text-shadow: 5px 0 #2a2a;
+  font-size: 8rem;
+  color: #0000;
+}
+
+p {
+  font-size: 2rem;
+  color: #2a2a;
+  font-family: 'Montserrat', sans-serif;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #2a2a2a;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
